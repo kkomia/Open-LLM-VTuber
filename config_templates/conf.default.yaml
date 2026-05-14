@@ -1,8 +1,8 @@
 # System Settings: Setting related to the initialization of the server
 system_config:
   conf_version: 'v1.2.1'
-  host: 'localhost' # use 0.0.0.0 if you want other devices to access this page
-  port: 12393
+  host: '192.168.31.16'
+  port: 8765
   # New setting for alternative configurations
   config_alts_dir: 'characters'
   # Tool prompts that will be appended to the persona prompt
